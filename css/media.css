@@ -1,0 +1,145 @@
+@media only screen and (min-width:200px) and (max-width:575px) {
+    .btn-outre {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        background-color: white;
+        padding: 5px 0;
+        left: 0;
+        justify-content: center;
+    }
+
+    .whatsappbtn,
+    .callbtn {
+        padding: 7px 15px;
+        font-size: 14px;
+        margin: 15px 15px;
+
+    }
+
+    .bannerContent h1 {
+        font-size: 25px;
+        font-weight: 700;
+        text-align: center;
+        line-height: 35px;
+    }
+
+    .bannerContent br {
+        display: none;
+    }
+
+    .bannerContent p,
+    .bannerContent ul li {
+        font-size: 16px;
+    }
+
+    .bannerContentBtn {
+        flex-direction: column;
+    }
+
+    .bannerContentBtn button {
+        width: 100%;
+    }
+
+    .bannerform {
+        padding: 20px;
+    }
+
+    .highlight-section h2 {
+        font-size: 28px;
+
+    }
+
+    .hm img {
+        height: 20px;
+    }
+
+    .hm h1 {
+
+        font-size: 20px;
+    }
+
+    .card-area {
+        flex-wrap: wrap;
+
+    }
+
+    .card-area .left {
+        margin-bottom: 10px;
+    }
+
+    .card-area .right {
+        margin-top: 10px;
+
+    }
+
+
+}
+
+@media only screen and (min-width:575px) and (max-width:1118px) {
+    .hm img {
+        height: 60px;
+    }
+
+    .hm h1 {
+
+        font-size: 30px;
+    }
+
+
+}
+
+@media only screen and (min-width:200px) and (max-width:1216px) {
+    .digicard {
+        flex-wrap: wrap;
+    }
+
+    .digicard .box-2 {
+        margin-top: 10px;
+    }
+
+    .digicard .box-3 {
+        margin-top: 10px;
+    }
+
+    .digicard .box-4 {
+        margin-top: 10px;
+    }
+
+    .toplern {
+        flex-wrap: wrap;
+
+    }
+
+    .bottomlearn {
+        flex-wrap: wrap;
+    }
+
+}
+
+@media (min-width: 1400px) {
+
+    .container,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl,
+    .container-xxl {
+        max-width: 1170px;
+    }
+
+    .col-lg-6 .btn-outre {
+        justify-content: end !important;
+    }
+
+    .hm img {
+        height: 60px;
+    }
+
+    .hm h1 {
+
+        font-size: 30px;
+    }
+
+
+}

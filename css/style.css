@@ -1,0 +1,167 @@
+* {
+    font-family: "Inter Tight", sans-serif;
+}
+
+.whatsappbtn {
+    border: 1px solid #27AE60;
+    padding: 10px 18px;
+    color: #27AE60;
+    font-size: 16px;
+}
+
+.whatsappbtn i {
+    color: #27AE60;
+
+}
+
+.whatsappbtn:hover {
+    border: 1px solid #27AE60;
+}
+
+.callbtn {
+    color: white;
+    padding: 10px 18px;
+    background-image: linear-gradient(to right top, #0acefc, #00c2ff, #00b5ff, #00a8ff, #2699fb);
+}
+
+.bannerContent h1 {
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.bannerContent h1 span {
+    color: #2699fb;
+    background: url("../images/Vector.svg") no-repeat bottom;
+}
+
+.bannerContent p {
+    font-size: 22px;
+}
+
+.bannerContent ul {
+    list-style: none;
+}
+
+.bannerContent ul li {
+    font-size: 22px;
+}
+
+.bannerContentBtn button {
+    width: 50%;
+    padding: 10px 0;
+    border-radius: 5px;
+
+}
+
+.bannerContentBtn button:first-child {
+    background-image: linear-gradient(to right top, #0acefc, #00c2ff, #00b5ff, #00a8ff, #2699fb);
+    color: white;
+
+}
+
+.bannerform {
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.bannerform h3 {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.bannerform button {
+    width: 100%;
+    padding: 10px 0;
+    background-image: linear-gradient(to right top, #0acefc, #00c2ff, #00b5ff, #00a8ff, #2699fb);
+    border-radius: 4px;
+    border: none;
+    color: white;
+
+}
+
+.countersection h2 {
+    font-size: 25px;
+    font-weight: 700;
+    color: #2699fb;
+}
+
+.highlight-section {
+    background-color: #F7FAFF;
+}
+
+.highlight-section h2 {
+    font-size: 36px;
+    font-weight: 700;
+    color: #0A3134;
+}
+
+.highlight-section p {
+    font-size: 16px;
+
+    color: #0A3134;
+}
+
+.highlight-item h4 {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.highlight-item p {
+    font-size: 15px;
+
+}
+
+#navbarNav ul li a {
+    color: #00a8ff;
+    margin-right: 15px;
+    font-weight: bold;
+
+}
+
+.tab-item-contain ul {
+    list-style: none;
+}
+
+.tabmysystem .nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+    background-color: #f2f4f7;
+    color: #0a2134;
+    border-radius: 0px;
+    border-bottom: 2px solid blue;
+
+}
+
+.card {
+    background-image: linear-gradient(to right top, #0acefe, #00c2ff, #00b5ff, #00a8ff, #2699fb);
+    color: white;
+
+}
+
+.card .btn-book {
+    border: 1px solid black;
+    border-radius: 5px;
+    color: black;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.text-fl {
+    width: 99%;
+}
+
+.text-os h1 {
+    color: black;
+    font-weight: 600;
+    font-size: 37px;
+}
+
+.footer {
+    background-color: #0A2540;
+    color: #ffffff;
+}
+
+.textdigi h2 {
+    font-weight: 700;
+
+
+}
